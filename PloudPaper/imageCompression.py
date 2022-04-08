@@ -1,5 +1,3 @@
-# https://stackoverflow.com/questions/67440510/cv2-error-opencv4-5-2-error-215assertion-failed-src-empty-in-functi
-
 from PIL import Image
 import os
 import glob
